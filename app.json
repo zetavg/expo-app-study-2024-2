@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "expo-app-study",
-    "slug": "expo-app-study",
+    "slug": "expo-app-study-2024-2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2273671d-fbc9-4b6a-9382-bb41f6ccaaf8"
+      }
+    },
+    "owner": "zetavg"
   }
 }
